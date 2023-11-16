@@ -1,6 +1,6 @@
 # Interface do Projeto Auto HK
 
-Projeto realizado como treino para o novos integrantes da Haken(Empresa Junior de Ciência da Computação) que ingressaram em 12/2022.
+Projeto realizado como treino para o novos integrantes da Haken(Empresa Junior de Ciência da Computação) que ingressaram em Dezembro/2022.
 
 ## Como Executar
 
